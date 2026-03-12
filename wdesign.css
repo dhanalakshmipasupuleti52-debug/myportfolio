@@ -295,7 +295,7 @@ grid-template-columns:1fr;
 width:380px;
 padding:25px;
 border:2px solid black;
-background:white;
+background:skyblue;
 text-align:center;
 margin:120px auto;
 border-radius:10px;
@@ -326,4 +326,5 @@ transition:0.3s;
 .main-btn:hover{
 background:#1e90ff;
 color:white;
+
 }
